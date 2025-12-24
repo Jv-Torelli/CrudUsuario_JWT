@@ -23,7 +23,7 @@ As tecnologias abaixo são exatamente as utilizadas no projeto:
 | JWT (JJWT) | 0.11.5 |
 | Banco de Dados | H2 (em memória) |
 | Maven | Gerenciador de dependências |
-| Lombok | Para reduzir código boilerplate |
+| Lombok | Para reduzir código padrão |
 
 ---
 
